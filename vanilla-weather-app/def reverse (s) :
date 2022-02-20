@@ -1,0 +1,20 @@
+def reverse (s) :
+    str = " "
+    for i in s:
+return str
+
+s = "SheCodes"
+
+print ("The original string is : ",end="")
+print (s)
+
+print ("The reverse string(using)loop) is : "end
+print (reverse(s))
+
+def extract_framedr(dr,frameID);
+    return dr[0, framebID], dr[1, framebID]
+
+    #include <she.h>
+    main()
+    int r,rem=0,c,a,re=0,em=0,p
+
